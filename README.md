@@ -15,8 +15,8 @@ On Day 1, I started practicing the fundamentals of Object-Oriented Programming u
 
 | File Name             | Description                                           |
 |----------------------|-------------------------------------------------------|
-| DAY1  |  |
-|   | Example of encapsulation using getters and setters.   |
+| DAY1  | Introduction to object Orientated programming |
+
 
 ---
 
